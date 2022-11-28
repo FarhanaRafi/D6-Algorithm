@@ -6,9 +6,17 @@ let pasta = 400;
 let water = 2500;
 let pastaStarch = 30;
 
+console.log("The ingredients for Spaghetti alla Carbonara:");
+console.log("Egg yolk: " , eggYolk);
+console.log("Cheese: " ,cheese);
+console.log("Black pepper: " , blackPepper);
+console.log("Guanciale: " , guanciale);
+console.log("Pasta: ", pasta);
+console.log("Water: ", water);
+console.log("Pasta starch: ", pastaStarch);
 
 let carbonara = eggYolk + cheese;
-console.log("Mixing egg yolks and cheese:");
+console.log("\nMixing egg yolks and cheese:");
 console.log(carbonara);
 
 let roastedBlackPepper = blackPepper / 2;
