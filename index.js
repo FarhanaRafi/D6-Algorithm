@@ -1,7 +1,7 @@
 let name = "Farhana "
 let lastName = "Kodenchery Mohammed Rafi"
 
-let fullName = name +lastName;
+let fullName = name + " " +lastName;
 console.log("\nHello, my name is " , fullName);
 
 let age = 27;
